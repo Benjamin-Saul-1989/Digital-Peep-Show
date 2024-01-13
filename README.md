@@ -1,4 +1,4 @@
-#Digital Peepshow by La Monstruosity ## English
+# Digital Peepshow by La Monstruosity ## English
 
 The Digital Peepshow is our way of bringing back the technology of the begining of the XX century combined with the technological advances of the XXI century. 
 We got inspire in the Quatum Scope which was a coin machine with a visor that reproduced animations, later in its life it was also used to distribute pornography. 
